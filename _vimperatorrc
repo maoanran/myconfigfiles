@@ -1,0 +1,9 @@
+"3.9 (created: 2015/02/15 15:49:05)
+
+noremap h gT
+noremap l gt
+noremap j 25j
+noremap k 25k
+source! "C:\\Users\\anran\\_vimperatorrc.local"
+
+" vim: set ft=vimperator:
